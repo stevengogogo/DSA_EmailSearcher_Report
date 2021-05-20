@@ -3,7 +3,12 @@
 Edit on Overleaf
 ----------------
 
+Project Structure
+-----------------
 
+- `fig`: save figures here
+- `main.tex`: write report here
+- `setup.tex`: formatting
 
 Reference 
 ---------
