@@ -29,3 +29,6 @@ table/**/aux/
 /.ipynb_checkpoints
 # For Mac
 *.DS_Store
+
+# Ignore output pdf
+main.pdf
