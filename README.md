@@ -1,5 +1,7 @@
 # DSA 2021: Final Project Report
 
+This is the report for https://github.com/stevengogogo/DSA_EmailSearcher
+
 Edit on Overleaf
 ----------------
 
